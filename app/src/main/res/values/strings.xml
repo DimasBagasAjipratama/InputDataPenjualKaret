@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InputDataPenjual</string>
+    <string name="btTambah">Tambah Data Penjual</string>
+    <string name="btLihat">Lihat Data Penjual</string>
+    <string name="bOk">Submit Data Penjual</string>
+    <string name="enama">Nama Penjual</string>
+    <string name="etanggal">Tanggal</string>
+    <string name="ehargakg">Harga-Kg</string>
+    <string name="eberatkg">Berat-Kg</string>
+    <string name="txtJudul1">INPUT DATA PENJUAL KARET</string>
+    <string name="txtJudul2">Penambahan Data</string>
+    <string name="txtJudul3">Data Penjual</string>
+    <string name="txtKosong"></string>
+</resources>

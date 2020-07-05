@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544310715558",
+    "firebase_url": "https://inputdatapenjual.firebaseio.com",
+    "project_id": "inputdatapenjual",
+    "storage_bucket": "inputdatapenjual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544310715558:android:a5209ff78d38e172044067",
+        "android_client_info": {
+          "package_name": "com.example.inputdatapenjual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544310715558-o034j0a8b1v21iqa0qol8qrsevonovve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZf0HhfHbvEpiU4Nou_YTTA-dtBXapmaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544310715558-o034j0a8b1v21iqa0qol8qrsevonovve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
